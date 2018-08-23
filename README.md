@@ -62,7 +62,5 @@ iOS里面的4种不同的定时器使用  1. NSTimer  2. CADisplayLink 3. GCD 4.
 
 
 代码结构: 不好意思....中文命名了
-
-
   
 
