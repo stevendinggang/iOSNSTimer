@@ -64,38 +64,5 @@ iOS里面的4种不同的定时器使用  1. NSTimer  2. CADisplayLink 3. GCD 4.
 代码结构: 不好意思....中文命名了
 
 
-“├── iOS�\207\214�\232\204�\232�\227��\231�
-│   ├── AppDelegate.h
-│   ├── AppDelegate.m
-│   ├── Assets.xcassets
-│   │   ├── AppIcon.appiconset
-│   │   │   └── Contents.json
-│   │   └── Contents.json
-│   ├── Base.lproj
-│   │   ├── LaunchScreen.storyboard
-│   │   └── Main.storyboard
-│   ├── Info.plist
-│   ├── ViewController.h
-│   ├── ViewController.m
-│   └── main.m
-├── iOS�\207\214�\232\204�\232�\227��\231�.xcodeproj
-│   ├── project.pbxproj
-│   ├── project.xcworkspace
-│   │   ├── contents.xcworkspacedata
-│   │   ├── xcshareddata
-│   │   │   └── IDEWorkspaceChecks.plist
-│   │   └── xcuserdata
-│   │       └── tei.xcuserdatad
-│   │           └── UserInterfaceState.xcuserstate
-│   └── xcuserdata
-│       └── tei.xcuserdatad
-│           └── xcschemes
-│               └── xcschememanagement.plist
-├── iOS�\207\214�\232\204�\232�\227��\231�Tests
-│   ├── Info.plist
-│   └── iOS_____Tests.m
-└── iOS�\207\214�\232\204�\232�\227��\231�UITests
-    ├── Info.plist
-    └── iOS_____UITests.m
-    ”
+  
 
