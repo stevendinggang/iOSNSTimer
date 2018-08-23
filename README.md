@@ -63,7 +63,8 @@ iOS里面的4种不同的定时器使用  1. NSTimer  2. CADisplayLink 3. GCD 4.
 
 代码结构: 不好意思....中文命名了
 
-├── iOS�\207\214�\232\204�\232�\227��\231�
+
+“├── iOS�\207\214�\232\204�\232�\227��\231�
 │   ├── AppDelegate.h
 │   ├── AppDelegate.m
 │   ├── Assets.xcassets
@@ -96,3 +97,5 @@ iOS里面的4种不同的定时器使用  1. NSTimer  2. CADisplayLink 3. GCD 4.
 └── iOS�\207\214�\232\204�\232�\227��\231�UITests
     ├── Info.plist
     └── iOS_____UITests.m
+    ”
+
